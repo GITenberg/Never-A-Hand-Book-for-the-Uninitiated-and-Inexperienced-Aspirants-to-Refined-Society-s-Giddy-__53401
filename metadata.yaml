@@ -1,0 +1,27 @@
+_repo: Never-A-Hand-Book-for-the-Uninitiated-and-Inexperienced-Aspirants-to-Refined-Society-s-Giddy-__53401
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Urner, Nathan Dane
+    alias: Urner, Nathan D.
+    birthdate: 1839
+    deathdate: 1893
+    gutenberg_agent_id: '47359'
+    url: http://www.gutenberg.org/2009/agents/47359
+description: ''
+gutenberg_issued: '2016-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53401'
+  lccn: 09031597
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+- GITenberg
+title: 'Never: A Hand-Book for the Uninitiated and Inexperienced Aspirants to Refined
+  Society''s Giddy Heights and Glittering Attainments.'
+url: http://www.gutenberg.org/ebooks/53401
